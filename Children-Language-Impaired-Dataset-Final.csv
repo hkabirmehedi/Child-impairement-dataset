@@ -1,254 +1,253 @@
-Age ,Speech in Bangla,Speech Translated in English,Response in Bangla,Response Translated in English,label,,
-0-6 months,Tumi Ki Ekhon Khabey,Do you want to eat now,No Response,No Response,Check for the next step,,
-0-6 months,Tumi Ki Ekhon Khabey,Do you want to eat now?,Smile die hat naracce ,Smile with moving hand,Normal,,
-0-6 months,Tumi Ki Ekhon Khabey,What do you want to eat now?,Smile die paa naracce,Smile with moving leg,Normal,,
-0-6 months,Eta ke re?,Who is this baby?,Smile die hat naracce ,Smile with moving hand,Normal,,
-0-6 months,Eta ke re?,Who is this baby?,No Response,No Response,Check for the next step,,
-0-6 months,Tumi ki bhat khabey,Do you want to eat rice?,No Response,No Response,Check for the next step,,
-0-6 months,Tumi ki bhat khabey,Do you want to eat rice?,haste haste matha jhakacce,Smile with shacking head,Normal,,
-0-6 months,Babbling sound,Babbling sound,daadaadaa,No Meaning,Normal,,
-0-6 months,bolo 'mammaa',Say 'mammaa',No response,No response,Normal,,
-0-6 months,bolo 'mammaa',Say 'mammaa',Smile,Smile,Normal,,
-0-6 months,tumi ki 'dadaa' bolte paro,Can you say 'dadaa',No response,No response,Check for the next step,,
-0-6 months,tumi ki 'dadaa' bolte paro,Can you say 'dadaa',Smile,Smile,Normal,,
-0-6 months,Making baby sound to make the baby laugh,Making baby sound to make the baby laugh,Smile,Smile,Normal,,
-0-6 months,Making baby sound to make the baby laugh,Making baby sound to make the baby laugh,Smile,Smile,Normal,,
-0-6 months,Hello !!!,Hello !!!,No response,No response,Normal,,
-0-6 months,name dhore daka,Calling by name,Smile,Smile,Normal,,
-0-6 months,name dhore daka,Calling by name,No response,No response,Check for the next step,,
-6-8 months,name dhore daka,Calling by name,Response,Response,Normal,,
-6-8 months,name dhore daka,Calling by name,No response,No response,Check for the next step,,
-6-8 months,Hello !!!,Hello !!!,No response,No response,Check for the next step,,
-6-8 months,tomar ammu kothay !,Where is your mamma !,Smile,Smile,Normal,,
-6-8 months,tomar ammu kothay !,Where is your mamma !,No response,No response,Check for the next step,,
-6-8 months,Making baby sound to make the baby laugh,Making baby sound to make the baby laugh,Smile,Smile,Normal,,
-6-8 months,Making baby sound to make the baby laugh,Making baby sound to make the baby laugh,No response,No response,Check for the next step,,
-6-8 months,bolo 'mammaa',Say 'Mammaa',No response,No response,Check for the next step,,
-6-8 months,bolo 'mammaa',Say 'Mammaa',Smile,Smile,Normal,,
-6-8 months,bolo 'Dadaa',Say 'Dadaa',No response,No response,Normal,,
-6-8 months,bolo 'Dadaa',Say 'Dadaa',Positive Response,Positive Response,Normal,,
-6-8 months,Tumi Ki Ekhon Khabey,Do you want to eat now,Nodding,Nodding,Normal,,
-6-8 months,Tumi ki bhat khabey,Do you want to eat rice?,Nodding/Smiling,Nodding,Normal,,
-6-8 months,Tumi ki bhat khabey,Do you want to eat rice?,Gum gum,No Meaning,Normal,,
-6-8 months,Tumi ki bhat khabey,Do you want to eat rice?,tutu,No Meaning,Normal,,
-6-8 months,Tumi amake koto valobasho ?,How much do you love me?,paaatta,No Meaning,Normal,,
-6-8 months,Oita Ki,What is that?,Haaaam,No Meaning,Normal,,
-6-8 months,Gari,Car,Booom,No Meaning,Normal,,
-6-8 months,Tumi Ki Ekhon Khabey?,What do you want to eat now?,No response,No response,Check for the next step,,
-6-8 months,Tumi Kemon acho ?,How are you,Smile,Smile,Normal,,
-6-8 months,Tumi Kemon acho ?,How are you,No response,No response,Check for the next step,,
-6-8 months,Eta ke re?,Who is this baby?,Smile,Smile,Normal,,
-6-8 months,Eta ke re?,Who is this baby?,No response,No response,Check for the next step,,
-8-18 months,Tumi Ki Ekhon Khabey ?,What do you want to eat now?,Atta,No Meaning,Normal,,
-8-18 months,Tumi Ki Ekhon Khabey ?,What do you want to eat now?,No response,No response,Check for the next step,,
-8-18 months,Tumi ki bhat khabey ?,Do you want to eat rice?,Ba (Hmm),No Meaning,Normal,,
-8-18 months,Tumi ki bhat khabey,Do you want to eat rice?,No response,No response,Check for the next step,,
-8-18 months,Tumi amake koto valobasho ?,How much do you love me?,Bimaaal,No Meaning,Normal,,
-8-18 months,tumi ki bashay jete chao?,Do you want to go home?,Bata,No Meaning,Normal,,
-8-18 months,tomar pani lagbe?,Do you want water?,mum,No Meaning,Normal,,
-8-18 months,tumi ki ekhon jabe?,will you go now?,dabo,I want to go,Normal,,
-8-18 months,Bosho,Sit Down (you),Boto,you sit down,Normal,,
-8-18 months,tumi chao?,Do you want?,dao,Yes I want,Normal,,
-8-18 months,Tumi ki bhat khabey ?,Do you want to eat rice?,Ami bhat khabe,I want to eat rice,Normal,,
-8-18 months,tumi ki jabe?,Will you go?,Ami jabe,I will go ,Normal,,
-8-18 months,Tumi Kemon acho ?,How are you?,Bhayo,I am good,Normal,,
-8-18 months,Tumi Kemon acho ?,How are you?,No response,No response,Check for the next step,,
-8-18 months,Tumi Kemon acho ?,How are you?,Smile,Smile,Normal,,
-8-18 months,Baba ke dakcho?,Calling father?,Ba,No meaning,Normal,,
-8-18 months,Ma ke dakcho?,Calling Mum?,mmm,No meaning,Normal,,
-8-18 months,Ma ke dakcho?,Calling Mum?,Mum,mother,Normal,,
-8-18 months,Gari lagbe tomar?,Do you want the car?,Gali,I want car,Normal,,
-8-18 months,Eta ke re?,Who is this baby?,Smile,smile,Normal,,
-8-18 months,Eta ke re?,Who is this baby?,No response,No response,Check for the next step,,
-8-18 months,Eta ke re?,Who is this baby?,Ami,I,Normal,,
-8-18 months,Hello !!!,Hello !!!,Smile,Smile,Normal,,
-8-18 months,Hello !!!,Hello !!!,No Response,No Response,Normal,,
-8-18 months,tomar ma kothay?,Where is your mamma?,Positive Response,Positive Response,Normal,,
-8-18 months,tomar ma kothay?,Where is your mamma?,No meaning,No meaning,Check for the next step,,
-8-18 months,name dhore daka,Calling by name,Response,Response,Normal,,
-8-18 months,name dhore daka,Calling by name,No Response,No Response,Check for the next step,,
-8-18 months,cholo kheli !!!,lets play !!!,Smile,Smile,Normal,,
-8-18 months,cholo kheli !!!,lets play !!!,No Response,No Response,Check for the next step,,
-8-18 months,bolo 'Dadaa',Say 'dadaa',Smile,Smile,Normal,,
-8-18 months,bolo 'Dadaa',Say 'dadaa',No response,No response,Check for the next step,,
-8-18 months,Making baby sound to make the baby laugh,Making baby sound to make the baby laugh,No meaning,No meaning,Check for the next step,,
-8-18 months,Making baby sound to make the baby laugh,Making baby sound to make the baby laugh,Positive Response,Positive Response,Normal,,
-8-18 months,bolo 'mammaa',Say 'mamma',Smile,Smile,Normal,,
-8-18 months,bolo 'mammaa',Say 'mamma',No meaning,No meaning,Check for the next step,,
-18-24 months,edike asho !!,Come here!!,Positive Response,Positive Response,Normal,0,
-18-24 months,edike asho !!,Come here!!,No response,No response,Check for the next steps,,
-18-24 months,cholo kheli !!,Lets play!!,Nodding,Nodding,Normal,,
-18-24 months,cholo kheli !!,Lets play!!,No response,No response,Check for the next steps,,
-18-24 months,amake akta pappa diba ?!,Can you give me a kiss ?!,No meaning,No meaning,Check for the next steps,,
-18-24 months,amake akta pappa diba ?!,Can you give me a kiss ?!,Khusi te hat pa narce,Moving hand and leg with smile,Normal,,
-18-24 months,tali dao dekhi,Can you clap?,No reponse,No reponse,Normal,,
-18-24 months,tali dao dekhi,Can you clap?,Positive Response,Positive Response,Normal,,
-18-24 months,Making baby sound to make the baby laugh,Making baby sound to make the baby laugh,Smile,Smile,Normal,,
-18-24 months,Making baby sound to make the baby laugh,Making baby sound to make the baby laugh,No meaning,No meaning,Check for the next steps,,
-18-24 months,bolo 'mammaa',Say 'mamma',Smile,Smile,Check for the next steps,,
-18-24 months,bolo 'mammaa',Say 'mamma',No  meaning,No  meaning,Check for the next steps,,
-18-24 months,name dhore daka,Calling by name,Response,Response,Normal,,
-18-24 months,name dhore daka,Calling by name,No response,No response,Check for the next steps,,
-18-24 months,Tumi Kemon acho?,How are you?,No response,no response,Check for the next step,,
-18-24 months,Tumi Kemon acho?,How are you?,Balo,I am fine,Normal,,
-18-24 months,Tumi Kemon acho?,How are you?,Smile,Smile,Check for the next steps,,
-18-24 months,Tumi Ki EkhonKhabey?,What do you want to eat now?,Ha,Yes,Normal,,
-18-24 months,tomar ki eta valo lage ?,Do you like this?,Amake eta pochondona,I don’t like this one,Normal,,
-18-24 months,Tumi ki bhat khabey?,Do you want to eat rice?,ha,Yes,Normal,,
-18-24 months,Tumi ki bhat khabey?,Do you want to eat rice?,No response,No response,Check for the next step,,
-18-24 months,Tumi amake koto valobasho?,How much do you love me?,Beti,I love you a lot,Normal,,
-18-24 months,Tumi amake koto valobasho?,How much do you love me?,Onek Beshi,I love you a lot,Normal,,
-18-24 months,tomar pani lagbe?,Do you want water?,mum,I want to drink water,Normal,,
-18-24 months,tumi ki eta ekhon korbe?,will you do it now?,bade korbo ami,I will do it later,Normal,,
-18-24 months,pani kivabe portese ?,how does the water flow?,Ei baile pani porey,this way water flowes,Normal,,
-18-24 months,tumi ki edike jabe?,Will you go this way?,ei miley jabo,I want to go this way,Normal,,
-18-24 months,tumi ki jete chao?,do you want to go?,Ami dabo,I want to go,Normal,,
-18-24 months,tumi ki boshbe?,will you sit?,TumiBoto,you sit down,Normal,,
-18-24 months,hambar kase jaba?,do you want to go near the cow?,HambaDabo,I want to go to cow,Normal,,
-18-24 months,ami tomake valobashi,I like you,Ami tomake vala pai,I like you,Normal,,
-2-3 years,edike asho !!,Come here !!,Positive Response,Positive Response,Normal,,
-2-3 years,edike asho !!,Come here !!,No meaning,No meaning,Check for the next step,,
-2-3 years,Making baby sound to make the baby laugh,Making baby sound to make the baby laugh,hastece ar body naracce,Smile with moving body,Normal,,
-2-3 years,Making baby sound to make the baby laugh,Making baby sound to make the baby laugh,No response,No response,Check for the next step,,
-2-3 years,tumi ki tali dite paro ?!,Can you clap?!,No response,No response,Check for the next step,,
-2-3 years,tumi ki tali dite paro ?!,Can you clap?!,Nodding,Nodding,Normal,,
-2-3 years,amake akta pappa diba ?!,Can you give me a kiss?!,Nodding,Nodding,Normal,,
-2-3 years,amake akta pappa diba ?!,Can you give me a kiss?!,No response,No response,Normal,,
-2-3 years,tomar ma kothay?,Where is your 'mamma',hat naracce and hastece,smile and moving hand,Normal,,
-2-3 years,tomar ma kothay?,Where is your 'mamma',No response,No response,Check for the next step,,
-2-3 years,amake khelna ti dao !!,Give me that toy !!,No response,No response,Check for the next step,,
-2-3 years,amake khelna ti dao !!,Give me that toy !!,Positive Response,Positive Response,Normal,,
-2-3 years,tumi ai khelna ti dhorte parbe?,Can you grab this toy?,Trying to look at the toy to touch,Trying to look at the toy to touch,Normal,,
-2-3 years,tumi ai khelna ti dhorte parbe?,Can you grab this toy?,No meaning,No meaning,Check for the next step,,
-2-3 years,Tumi Ki EkhonKhabey?,Do you want to eat now?,No Response,No response,Check for the next step,,
-2-3 years,Tumi Ki Ekhon Khabey?,Do you want to eat now?,Smile dia matha naracce,Smile with shacking head,Normal,,
-2-3 years,Tumi Ekhon Ki Khabey?,What do you want to eat now?,Smile,Smile,Check for the next step,,
-2-3 years,Tumi Ekhon Ki Khabey?,What do you want to eat now?,Baat,rice,Normal,,
-2-3 years,Tumi Ekhon Ki Khabey?,What do you want to eat now?,Akkim,Ice Cream,Normal,,
-2-3 years,Tumi Ekhon Ki Khabey?,What do you want to eat now?,Kokket,Chocolate,Normal,,
-2-3 years,Tumi Ekhon Ki Khabey?,What do you want to eat now?,Nudus,Noodles,Normal,,
-2-3 years,Tumi Ekhon Ki Khabey?,What do you want to eat now?,Pyatii,Pacifier,Normal,,
-2-3 years,Eta ke re?,Who is this baby?,ami,I,Normal,,
-2-3 years,Eta ke re?,Who is this baby?,No Response,no response,Check for the next step,,
-2-3 years,Eta ke re?,Who is this baby?,Ami,I,Normal,,
-2-3 years,Eta ke re?,Who is this baby?,Taseen ,Taseen,Normal,,
-2-3 years,Eta ke?,Who is this?,babba,father,Normal,,
-2-3 years,Eta ke?,Who is this?,Mumma,mother,Normal,,
-2-3 years,Eta ke?,Who is this?,Tatta,no meaning,Normal,,
-2-3 years,Tumi ki bhat khabey?,Do you want to eat rice?,No Response,no response,Check for the next step,,
-2-3 years,Tumi ki bhat khabey?,Do you want to eat rice?,Smile,smile,Check for the next step,,
-2-3 years,Tumi ki bhat khabey?,Do you want to eat rice?,Na,no,Normal,,
-2-3 years,Tumi ki bhat khabey?,Do you want to eat rice?,Ha,yes,Normal,,
-2-3 years,Tumi ki bhat khabey?,Do you want to eat rice?,No Response,no response,Check for the next step,,
-2-3 years,Tumi ki bhat khabey?,Do you want to eat rice?,Smile,smile,Check for the next step,,
-2-3 years,Tumi ki bhat khabey?,Do you want to eat rice?,Baa,no meaning,Check for the next step,,
-2-3 years,Tumi ki bhat khabey?,Do you want to eat rice?,Atta,no meaning,Check for the next step,,
-2-3 years,eta dangerous,It is dangerous,Denanus,Dangerous,Normal,,
-2-3 years,amake tumi marba?,Will you beat me?,Maaid dibo,I will beat you,Normal,,
-2-3 years,ami tomake pitti dibo,I will beat you,Pitti Dibo,i will punch you,Normal,,
-2-3 years,tumi gari te jaba,you want to go to the car,Boom Boom Dabo,I want to go to the car,Normal,,
-2-3 years,tumi shedike jabe,you want go that way,She Biley Jabo,i want to go outside,Normal,,
-2-3 years,cartoon dekhbe ?,Do yo want to watch cartoon?,Katoon debbo,I want to watch cartoon,Normal,,
-3 - 4 years,Tumi Ki Ekhon Khabey?,Do you want to eat now?,No Response,no response,Check for the next step,,
-3 - 4 years,Tumi Ki Ekhon Khabey?,Do you want to eat now?,Smile,smile,Check for the next step,,
-3 - 4 years,Tumi Ekhon Ki Khabey?,What do you want to eat now?,Smile,smile,Check for the next step,,
-3 - 4 years,Tumi Ekhon Ki Khabey?,What do you want to eat now?,Bhaat,rice,Normal,,
-3 - 4 years,Tumi Ekhon Ki Khabey?,What do you want to eat now?,Aikrim,Ice  Cream,Normal,,
-3 - 4 years,Tumi Ekhon Ki Khabey?,What do you want to eat now?,Chokket,Chocolate,Normal,,
-3 - 4 years,Eta ke re?,Who is this baby?,Smile,smile with moving hand and leg,Normal,,
-3 - 4 years,Eta ke re?,Who is this baby?,No Response,no response,Check for the next step,,
-3 - 4 years,Eta ke re?,Who is this baby?,Ami,I,Normal,,
-3 - 4 years,Eta ke re?,Who is this baby?,Niana,Niana,Normal,,
-3 - 4 years,Eta ke?,Who is this?,babba,father,Normal,,
-3 - 4 years,Eta ke?,Who is this?,Mumma,mother,Normal,,
-3 - 4 years,Eta ke?,Who is this?,Dadu,grandfather,Normal,,
-3 - 4 years,Tumi ki bhat khabey?,Do you want to eat rice?,No Response,no response,Check for the next step,,
-3 - 4 years,Tumikibhatkhabey?,Do you want to eat rice?,Smile,smile,Check for the next step,,
-3 - 4 years,Tumi ki bhat khabey,Do you want to eat rice?,Bhat Thabo,I want to eat rice,Normal,,
-3 - 4 years,Tumi ki bhat khabey,Do you want to eat rice?,Bhat Thabena,I do not eat rice,Normal,,
-3 - 4 years,Tumi ki bhat khabey?,Do you want to eat rice?,Smile,smile,Check for the next step,,
-3 - 4 years,Tumi ki bhat khabey?,Do you want to eat rice?,No Response,no response,Check for the next step,,
-3 - 4 years,Tumi ki bhat khabey ?,Do you want to eat rice?,Nodding,no meaning,Check for the next step,,
-3 - 4 years,Tumi ki bhat khabey?,Do you want to eat rice?,Baa,no meaning,Check for the next step,,
-3 - 4 years,Tumi ki bhat khabey ?,Do you want to eat rice?,Atta,no meaning,Check for the next step,,
-3 - 4 years,amake Tablet Mobile ti dao,Give me the Tablet Mobile?,Tab,giving the Tablet,Normal,,
-3 - 4 years,Tumi Ki Ready?,Are you ready?,Ready,positive,Normal,,
-3 - 4 years,Ghum Peyeche?,Are you sleepy?,Hmm,yes,Normal,,
-3 - 4 years,Ki chachho?,What do you Want?,Oita,That thing,Normal,,
-3 - 4 years,Ki chachho?,What do you Want?,Eita,This thing,Normal,,
-3 - 4 years,Ki chachho?,What do you Want?,Biskit,Biscuit,Normal,,
-3 - 4 years,Ki chachho?,What do you Want?,No Response,no response,Check for the next step,,
-3 - 4 years,Ki chachho?,What do you Want?,Nodding,no meaning,Check for the next step,,
-3 - 4 years,ekhon jeyo na,Don’t go now?,Tumi Daba na,you do not go ,Normal,,
-3 - 4 years,Ki Koro?,What are you doing ?,Ranna Bari,I am playing ranna bati,Normal,,
-3 - 4 years,Ki Koro?,What are you doing ?,Kituna,nothing,Normal,,
-3 - 4 years,Ki Koro?,What are you doing ?,No response,no response,Check for the next step,,
-4- 5 years,Tumi Ki EkhonKhabey?,Do you want to eat now?,No Response,no response,Check for the next step,,
-4- 5 years,Tumi Ki EkhonKhabey?,Do you want to eat now?,Smile,smile,Check for the next step,,
-4- 5 years,Tumi EkhonKi Khabey?,What do you want to eat now?,Smile,smile,Check for the next step,,
-4- 5 years,Tumi EkhonKi Khabey?,What do you want to eat now?,Bhaat,rice,Normal,,
-4- 5 years,Tumi EkhonKi Khabey?,What do you want to eat now?,Aikrim,Ice  Cream,Normal,,
-4- 5 years,Tumi EkhonKi Khabey?,What do you want to eat now?,Chokket,Chocolate,Normal,,
-4- 5 years,Eta ke re?,Who is this baby?,Smile,smile,Check for the next step,,
-4- 5 years,Eta ke re?,Who is this baby?,No Response,no response,Check for the next step,,
-4- 5 years,Eta ke re?,Who is this baby?,Ami,I,Normal,,
-4- 5 years,Eta ke re?,Who is this baby?,Niana ,Niana,Normal,,
-4- 5 years,Eta ke?,Who is this?,babba,father,Normal,,
-4- 5 years,Eta ke?,Who is this?,Mumma,mother,Normal,,
-4- 5 years,Eta ke?,Who is this?,Dadu,grandfather,Normal,,
-4- 5 years,Tumi ki bhat khabey?,Do you want to eat rice?,No Response,no response,Check for the next step,,
-4- 5 years,Tumi ki bhat khabey?,Do you want to eat rice?,Smile,smile,Check for the next step,,
-4- 5 years,Tumi ki bhat khabey?,Do you want to eat rice?,Bhat Thabo,I want to eat rice,Normal,,
-4- 5 years,Tumi ki bhat khabey?,Do you want to eat rice?,Bhat Thabena,I do not eat rice,Normal,,
-4- 5 years,Tumi ki bhat khabey?,Do you want to eat rice?,Smile,smile,Check for the next step,,
-4- 5 years,Tumi ki bhat khabey?,Do you want to eat rice?,No Response,no response,Check for the next step,,
-4- 5 years,Tumi ki bhat khabey?,Do you want to eat rice?,Nodding,no meaning,check for the next step,,
-4- 5 years,Tumi ki bhat khabey?,Do you want to eat rice?,Baa,positive,Check for the next step,,
-4- 5 years,Tumi ki bhat khabey ?,Do you want to eat rice?,Atta,no meaning,Check for the next step,,
-4- 5 years,amake Tablet Mobile ti dao,Give me the Tablet Mobile,Tab,giving Tablet ,Normal,,
-4- 5 years,Tumi Ki Ready?,Are you Ready?,Ready,positive,Normal,,
-4- 5 years,Ghum Peyeche?,Are you Sleepy,Hmm,yes,Normal,,
-4- 5 years,Ki chachho?,What do you Want,Oita,That thing,Normal,,
-4- 5 years,Ki chachho?,What do you Want,Eita,This thing,Normal,,
-4- 5 years,Ki chachho?,What do you Want,Biskit,Biscuit,Normal,,
-4- 5 years,Ki chachho?,What do you Want,No Response,no response,Check for the next step,,
-4- 5 years,Ki chachho?,What do you Want,Nodding,no meaning,Check for the next step,,
-4- 5 years,ekhon jeyo na,Don’t go now,ami jabo na?, do not I  go?,Normal,,
-4- 5 years,Ki Koro?,What are you doing ?,Ranna Bari,I am playing ranna bati,Normal,,
-4- 5 years,Ki Koro?,What are you doing ?,Kituna,nothing,Normal,,
-4- 5 years,Ki Koro?,What are you doing ?,No response,no response,Check for the next step,,
-5 - 6 years,Tumi Ekhon Ki Khabey?,Do you want to eat now,No Response,no response,Check for the next step,,
-5 - 6 years,Tumi Ekhon Ki Khabey?,Do you want to eat now,Smile,smile,Check for the next step,,
-5 - 6 years,Tumi Ekhon Ki Khabey?,What do you want to eat now?,Smile,smile,Check for the next step,,
-5 - 6 years,Tumi Ekhon Ki Khabey?,What do you want to eat now?,Bhat,Rice,Normal,,
-5 - 6 years,Tumi Ekhon Ki Khabey?,What do you want to eat now?,Aiskrim,Ice  Cream,Normal,,
-5 - 6 years,Tumi Ekhon Ki Khabey?,What do you want to eat now?,Choklet,Chocolate,Normal,,
-5 - 6 years,Eta ke re?,Who is this baby?,Smile,smile,Check for the next step,,
-5 - 6 years,Eta ke re?,Who is this baby?,No Response,no response,Check for the next step,,
-5 - 6 years,Eta ke re?,Who is this baby?,Ami,me,Normal,,
-5 - 6 years,Eta ke re?,Who is this baby?,Liana ,Liana,Normal,,
-5 - 6 years,Eta ke?,Who is this?,Baba,father,Normal,,
-5 - 6 years,Eta ke?,Who is this?,Mumma,mother,Normal,,
-5 - 6 years,Eta ke?,Who is this?,Dadu,grand father,Normal,,
-5 - 6 years,Tumi ki bhat khabey?,Do you want to eat rice?,No Response,no response,Check for the next step,,
-5 - 6 years,Tumi ki bhat khabey?,Do you want to eat rice?,Smile,smile,Check for the next step,,
-5 - 6 years,Tumi ki bhat khabey,Do you want to eat rice?,Bhat Khabo,I want to eat rice,Normal,,
-5 - 6 years,Tumi ki bhat khabey,Do you want to eat rice?,Bhat Khabona,I do not eat rice,Normal,,
-5 - 6 years,Tumi ki bhat khabey,Do you want to eat rice?,Smile,smile,Check for the next step,,
-5 - 6 years,Tumi ki bhat khabey,Do you want to eat rice?,No Response,no response,Check for the next step,,
-5 - 6 years,Tumi ki bhat khabey ?,Do you want to eat rice?,Nodding,no meaning,Check for the next step,,
-5 - 6 years,Tumi ki bhat khabey?,Do you want to eat rice?,Baa,no meaning,Check for the next step,,
-5 - 6 years,Tumi ki bhat khabey,Do you want to eat rice?,Atta,no meaning,Check for the next step,,
-5 - 6 years,amake Tablet Mobile ti dao,Give me the Tablet Mobile,Tab,giving Tablet ,Normal,,
-5 - 6 years,Tumi Ki Ready?,Are you Ready?,Ready,positive,Normal,,
-5 - 6 years,Ghum Peyeche?,Are you Sleepy?,Hmm,yes,Normal,,
-5 - 6 years,Ki chachho?,What do you Want?,Oita,That thing,Normal,,
-5 - 6 years,Ki chachho?,What do you Want?,Eita,This thing,Normal,,
-5 - 6 years,Ki chachho?,What do you Want?,Biskit,Biscuit,Normal,,
-5 - 6 years,Ki chachho?,What do you Want?,No Response,no response,Check for the next step,,
-5 - 6 years,Ki chachho?,What do you Want?,Nodding,no meaning,Check for the next step,,
-5 - 6 years,ekhon jeyo na,Don’t go now?,Tumi jaba na,Would you go?,Normal,,
-5 - 6 years,Ki Koro?,What are you doing ?,Ranna Bati kheli,I am playing ranna bati,Normal,,
-5 - 6 years,Ki Koro?,What are you doing ?,Kichuna,Nothing,Normal,,
-5 - 6 years,Ki Koro?,What are you doing ?,No response,No response,Check for the next step,,
-,,,,,,,0
+Age,Speech in Bangla,Speech Translated in English,Response in Bangla,Response Translated in English,label
+0-6 months,Tumi Ki Ekhon Khabey,Do you want to eat now?,No Response,No Response,Check for the next step
+0-6 months,Tumi Ki Ekhon Khabey,Do you want to eat now?,Smile die hat naracce,Smile with moving hand,Normal
+0-6 months,Tumi Ki Ekhon Khabey,What do you want to eat now?,Smile die paa naracce,Smile with moving leg,Normal
+0-6 months,Eta ke re?,Who is this baby?,Smile die hat naracce,Smile with moving hand,Normal
+0-6 months,Eta ke re?,Who is this baby?,No Response,No Response,Check for the next step
+0-6 months,Tumi ki bhat khabey,Do you want to eat rice?,No Response,No Response,Check for the next step
+0-6 months,Tumi ki bhat khabey,Do you want to eat rice?,haste haste matha jhakacce,Smile with shacking head,Normal
+0-6 months,Babbling sound,Babbling sound,daadaadaa,No Meaning,Normal
+0-6 months,bolo 'mammaa',Say 'mammaa',No response,No response,Normal
+0-6 months,bolo 'mammaa',Say 'mammaa',Smile,Smile,Normal
+0-6 months,tumi ki 'dadaa' bolte paro,Can you say 'dadaa',No response,No response,Check for the next step
+0-6 months,tumi ki 'dadaa' bolte paro,Can you say 'dadaa',Smile,Smile,Normal
+0-6 months,Making baby sound to make the baby laugh,Making baby sound to make the baby laugh,Smile,Smile,Normal
+0-6 months,Making baby sound to make the baby laugh,Making baby sound to make the baby laugh,Smile,Smile,Normal
+0-6 months,Hello !!!,Hello !!!,No response,No response,Normal
+0-6 months,name dhore daka,Calling by name,Smile,Smile,Normal
+0-6 months,name dhore daka,Calling by name,No response,No response,Check for the next step
+6-8 months,name dhore daka,Calling by name,Response,Response,Normal
+6-8 months,name dhore daka,Calling by name,No response,No response,Check for the next step
+6-8 months,Hello !!!,Hello !!!,No response,No response,Check for the next step
+6-8 months,tomar ammu kothay !,Where is your mamma !,Smile,Smile,Normal
+6-8 months,tomar ammu kothay !,Where is your mamma !,No response,No response,Check for the next step
+6-8 months,Making baby sound to make the baby laugh,Making baby sound to make the baby laugh,Smile,Smile,Normal
+6-8 months,Making baby sound to make the baby laugh,Making baby sound to make the baby laugh,No response,No response,Check for the next step
+6-8 months,bolo 'mammaa',Say 'Mammaa',No response,No response,Check for the next step
+6-8 months,bolo 'mammaa',Say 'Mammaa',Smile,Smile,Normal
+6-8 months,bolo 'Dadaa',Say 'Dadaa',No response,No response,Normal
+6-8 months,bolo 'Dadaa',Say 'Dadaa',Positive Response,Positive Response,Normal
+6-8 months,Tumi Ki Ekhon Khabey,Do you want to eat now,Nodding,Nodding,Normal
+6-8 months,Tumi ki bhat khabey,Do you want to eat rice?,Nodding/Smiling,Nodding,Normal
+6-8 months,Tumi ki bhat khabey,Do you want to eat rice?,Gum gum,No Meaning,Normal
+6-8 months,Tumi ki bhat khabey,Do you want to eat rice?,tutu,No Meaning,Normal
+6-8 months,Tumi amake koto valobasho ?,How much do you love me?,paaatta,No Meaning,Normal
+6-8 months,Oita Ki,What is that?,Haaaam,No Meaning,Normal
+6-8 months,Gari,Car,Booom,No Meaning,Normal
+6-8 months,Tumi Ki Ekhon Khabey?,What do you want to eat now?,No response,No response,Check for the next step
+6-8 months,Tumi Kemon acho ?,How are you,Smile,Smile,Normal
+6-8 months,Tumi Kemon acho ?,How are you,No response,No response,Check for the next step
+6-8 months,Eta ke re?,Who is this baby?,Smile,Smile,Normal
+6-8 months,Eta ke re?,Who is this baby?,No response,No response,Check for the next step
+8-18 months,Tumi Ki Ekhon Khabey ?,What do you want to eat now?,Atta,No Meaning,Normal
+8-18 months,Tumi Ki Ekhon Khabey ?,What do you want to eat now?,No response,No response,Check for the next step
+8-18 months,Tumi ki bhat khabey ?,Do you want to eat rice?,Ba (Hmm),No Meaning,Normal
+8-18 months,Tumi ki bhat khabey,Do you want to eat rice?,No response,No response,Check for the next step
+8-18 months,Tumi amake koto valobasho ?,How much do you love me?,Bimaaal,No Meaning,Normal
+8-18 months,tumi ki bashay jete chao?,Do you want to go home?,Bata,No Meaning,Normal
+8-18 months,tomar pani lagbe?,Do you want water?,mum,No Meaning,Normal
+8-18 months,tumi ki ekhon jabe?,will you go now?,dabo,I want to go,Normal
+8-18 months,Bosho,Sit Down (you),Boto,you sit down,Normal
+8-18 months,tumi chao?,Do you want?,dao,Yes I want,Normal
+8-18 months,Tumi ki bhat khabey ?,Do you want to eat rice?,Ami bhat khabe,I want to eat rice,Normal
+8-18 months,tumi ki jabe?,Will you go?,Ami jabe,I will go,Normal
+8-18 months,Tumi Kemon acho ?,How are you?,Bhayo,I am good,Normal
+8-18 months,Tumi Kemon acho ?,How are you?,No response,No response,Check for the next step
+8-18 months,Tumi Kemon acho ?,How are you?,Smile,Smile,Normal
+8-18 months,Baba ke dakcho?,Calling father?,Ba,No meaning,Normal
+8-18 months,Ma ke dakcho?,Calling Mum?,mmm,No meaning,Normal
+8-18 months,Ma ke dakcho?,Calling Mum?,Mum,mother,Normal
+8-18 months,Gari lagbe tomar?,Do you want the car?,Gali,I want car,Normal
+8-18 months,Eta ke re?,Who is this baby?,Smile,smile,Normal
+8-18 months,Eta ke re?,Who is this baby?,No response,No response,Check for the next step
+8-18 months,Eta ke re?,Who is this baby?,Ami,I,Normal
+8-18 months,Hello !!!,Hello !!!,Smile,Smile,Normal
+8-18 months,Hello !!!,Hello !!!,No Response,No Response,Normal
+8-18 months,tomar ma kothay?,Where is your mamma?,Positive Response,Positive Response,Normal
+8-18 months,tomar ma kothay?,Where is your mamma?,No meaning,No meaning,Check for the next step
+8-18 months,name dhore daka,Calling by name,Response,Response,Normal
+8-18 months,name dhore daka,Calling by name,No Response,No Response,Check for the next step
+8-18 months,cholo kheli !!!,lets play !!!,Smile,Smile,Normal
+8-18 months,cholo kheli !!!,lets play !!!,No Response,No Response,Check for the next step
+8-18 months,bolo 'Dadaa',Say 'dadaa',Smile,Smile,Normal
+8-18 months,bolo 'Dadaa',Say 'dadaa',No response,No response,Check for the next step
+8-18 months,Making baby sound to make the baby laugh,Making baby sound to make the baby laugh,No meaning,No meaning,Check for the next step
+8-18 months,Making baby sound to make the baby laugh,Making baby sound to make the baby laugh,Positive Response,Positive Response,Normal
+8-18 months,bolo 'mammaa',Say 'mamma',Smile,Smile,Normal
+8-18 months,bolo 'mammaa',Say 'mamma',No meaning,No meaning,Check for the next step
+18-24 months,edike asho !!,Come here!!,Positive Response,Positive Response,Normal
+18-24 months,edike asho !!,Come here!!,No response,No response,Check for the next step
+18-24 months,cholo kheli !!,Lets play!!,Nodding,Nodding,Normal
+18-24 months,cholo kheli !!,Lets play!!,No response,No response,Check for the next step
+18-24 months,amake akta pappa diba ?!,Can you give me a kiss ?!,No meaning,No meaning,Check for the next step
+18-24 months,amake akta pappa diba ?!,Can you give me a kiss ?!,Khusi te hat pa narce,Moving hand and leg with smile,Normal
+18-24 months,tali dao dekhi,Can you clap?,No reponse,No reponse,Normal
+18-24 months,tali dao dekhi,Can you clap?,Positive Response,Positive Response,Normal
+18-24 months,Making baby sound to make the baby laugh,Making baby sound to make the baby laugh,Smile,Smile,Normal
+18-24 months,Making baby sound to make the baby laugh,Making baby sound to make the baby laugh,No meaning,No meaning,Check for the next step
+18-24 months,bolo 'mammaa',Say 'mamma',Smile,Smile,Check for the next step
+18-24 months,bolo 'mammaa',Say 'mamma',No  meaning,No  meaning,Check for the next step
+18-24 months,name dhore daka,Calling by name,Response,Response,Normal
+18-24 months,name dhore daka,Calling by name,No response,No response,Check for the next step
+18-24 months,Tumi Kemon acho?,How are you?,No response,no response,Check for the next step
+18-24 months,Tumi Kemon acho?,How are you?,Balo,I am fine,Normal
+18-24 months,Tumi Kemon acho?,How are you?,Smile,Smile,Check for the next step
+18-24 months,Tumi Ki EkhonKhabey?,What do you want to eat now?,Ha,Yes,Normal
+18-24 months,tomar ki eta valo lage ?,Do you like this?,Amake eta pochondona,I don’t like this one,Normal
+18-24 months,Tumi ki bhat khabey?,Do you want to eat rice?,ha,Yes,Normal
+18-24 months,Tumi ki bhat khabey?,Do you want to eat rice?,No response,No response,Check for the next step
+18-24 months,Tumi amake koto valobasho?,How much do you love me?,Beti,I love you a lot,Normal
+18-24 months,Tumi amake koto valobasho?,How much do you love me?,Onek Beshi,I love you a lot,Normal
+18-24 months,tomar pani lagbe?,Do you want water?,mum,I want to drink water,Normal
+18-24 months,tumi ki eta ekhon korbe?,will you do it now?,bade korbo ami,I will do it later,Normal
+18-24 months,pani kivabe portese ?,how does the water flow?,Ei baile pani porey,this way water flowes,Normal
+18-24 months,tumi ki edike jabe?,Will you go this way?,ei miley jabo,I want to go this way,Normal
+18-24 months,tumi ki jete chao?,do you want to go?,Ami dabo,I want to go,Normal
+18-24 months,tumi ki boshbe?,will you sit?,TumiBoto,you sit down,Normal
+18-24 months,hambar kase jaba?,do you want to go near the cow?,HambaDabo,I want to go to cow,Normal
+18-24 months,ami tomake valobashi,I like you,Ami tomake vala pai,I like you,Normal
+2-3 years,edike asho !!,Come here !!,Positive Response,Positive Response,Normal
+2-3 years,edike asho !!,Come here !!,No meaning,No meaning,Check for the next step
+2-3 years,Making baby sound to make the baby laugh,Making baby sound to make the baby laugh,hastece ar body naracce,Smile with moving body,Normal
+2-3 years,Making baby sound to make the baby laugh,Making baby sound to make the baby laugh,No response,No response,Check for the next step
+2-3 years,tumi ki tali dite paro ?!,Can you clap?!,No response,No response,Check for the next step
+2-3 years,tumi ki tali dite paro ?!,Can you clap?!,Nodding,Nodding,Normal
+2-3 years,amake akta pappa diba ?!,Can you give me a kiss?!,Nodding,Nodding,Normal
+2-3 years,amake akta pappa diba ?!,Can you give me a kiss?!,No response,No response,Normal
+2-3 years,tomar ma kothay?,Where is your 'mamma',hat naracce and hastece,smile and moving hand,Normal
+2-3 years,tomar ma kothay?,Where is your 'mamma',No response,No response,Check for the next step
+2-3 years,amake khelna ti dao !!,Give me that toy !!,No response,No response,Check for the next step
+2-3 years,amake khelna ti dao !!,Give me that toy !!,Positive Response,Positive Response,Normal
+2-3 years,tumi ai khelna ti dhorte parbe?,Can you grab this toy?,Trying to look at the toy to touch,Trying to look at the toy to touch,Normal
+2-3 years,tumi ai khelna ti dhorte parbe?,Can you grab this toy?,No meaning,No meaning,Check for the next step
+2-3 years,Tumi Ki EkhonKhabey?,Do you want to eat now?,No Response,No response,Check for the next step
+2-3 years,Tumi Ki Ekhon Khabey?,Do you want to eat now?,Smile dia matha naracce,Smile with shacking head,Normal
+2-3 years,Tumi Ekhon Ki Khabey?,What do you want to eat now?,Smile,Smile,Check for the next step
+2-3 years,Tumi Ekhon Ki Khabey?,What do you want to eat now?,Baat,rice,Normal
+2-3 years,Tumi Ekhon Ki Khabey?,What do you want to eat now?,Akkim,Ice Cream,Normal
+2-3 years,Tumi Ekhon Ki Khabey?,What do you want to eat now?,Kokket,Chocolate,Normal
+2-3 years,Tumi Ekhon Ki Khabey?,What do you want to eat now?,Nudus,Noodles,Normal
+2-3 years,Tumi Ekhon Ki Khabey?,What do you want to eat now?,Pyatii,Pacifier,Normal
+2-3 years,Eta ke re?,Who is this baby?,ami,I,Normal
+2-3 years,Eta ke re?,Who is this baby?,No Response,no response,Check for the next step
+2-3 years,Eta ke re?,Who is this baby?,Ami,I,Normal
+2-3 years,Eta ke re?,Who is this baby?,Taseen,Taseen,Normal
+2-3 years,Eta ke?,Who is this?,babba,father,Normal
+2-3 years,Eta ke?,Who is this?,Mumma,mother,Normal
+2-3 years,Eta ke?,Who is this?,Tatta,no meaning,Normal
+2-3 years,Tumi ki bhat khabey?,Do you want to eat rice?,No Response,no response,Check for the next step
+2-3 years,Tumi ki bhat khabey?,Do you want to eat rice?,Smile,smile,Check for the next step
+2-3 years,Tumi ki bhat khabey?,Do you want to eat rice?,Na,no,Normal
+2-3 years,Tumi ki bhat khabey?,Do you want to eat rice?,Ha,yes,Normal
+2-3 years,Tumi ki bhat khabey?,Do you want to eat rice?,No Response,no response,Check for the next step
+2-3 years,Tumi ki bhat khabey?,Do you want to eat rice?,Smile,smile,Check for the next step
+2-3 years,Tumi ki bhat khabey?,Do you want to eat rice?,Baa,no meaning,Check for the next step
+2-3 years,Tumi ki bhat khabey?,Do you want to eat rice?,Atta,no meaning,Check for the next step
+2-3 years,eta dangerous,It is dangerous,Denanus,Dangerous,Normal
+2-3 years,amake tumi marba?,Will you beat me?,Maaid dibo,I will beat you,Normal
+2-3 years,ami tomake pitti dibo,I will beat you,Pitti Dibo,i will punch you,Normal
+2-3 years,tumi gari te jaba,you want to go to the car,Boom Boom Dabo,I want to go to the car,Normal
+2-3 years,tumi shedike jabe,you want go that way,She Biley Jabo,i want to go outside,Normal
+2-3 years,cartoon dekhbe ?,Do yo want to watch cartoon?,Katoon debbo,I want to watch cartoon,Normal
+3 - 4 years,Tumi Ki Ekhon Khabey?,Do you want to eat now?,No Response,no response,Check for the next step
+3 - 4 years,Tumi Ki Ekhon Khabey?,Do you want to eat now?,Smile,smile,Check for the next step
+3 - 4 years,Tumi Ekhon Ki Khabey?,What do you want to eat now?,Smile,smile,Check for the next step
+3 - 4 years,Tumi Ekhon Ki Khabey?,What do you want to eat now?,Bhaat,rice,Normal
+3 - 4 years,Tumi Ekhon Ki Khabey?,What do you want to eat now?,Aikrim,Ice  Cream,Normal
+3 - 4 years,Tumi Ekhon Ki Khabey?,What do you want to eat now?,Chokket,Chocolate,Normal
+3 - 4 years,Eta ke re?,Who is this baby?,Smile,smile with moving hand and leg,Normal
+3 - 4 years,Eta ke re?,Who is this baby?,No Response,no response,Check for the next step
+3 - 4 years,Eta ke re?,Who is this baby?,Ami,I,Normal
+3 - 4 years,Eta ke re?,Who is this baby?,Niana,Niana,Normal
+3 - 4 years,Eta ke?,Who is this?,babba,father,Normal
+3 - 4 years,Eta ke?,Who is this?,Mumma,mother,Normal
+3 - 4 years,Eta ke?,Who is this?,Dadu,grandfather,Normal
+3 - 4 years,Tumi ki bhat khabey?,Do you want to eat rice?,No Response,no response,Check for the next step
+3 - 4 years,Tumikibhatkhabey?,Do you want to eat rice?,Smile,smile,Check for the next step
+3 - 4 years,Tumi ki bhat khabey,Do you want to eat rice?,Bhat Thabo,I want to eat rice,Normal
+3 - 4 years,Tumi ki bhat khabey,Do you want to eat rice?,Bhat Thabena,I do not eat rice,Normal
+3 - 4 years,Tumi ki bhat khabey?,Do you want to eat rice?,Smile,smile,Check for the next step
+3 - 4 years,Tumi ki bhat khabey?,Do you want to eat rice?,No Response,no response,Check for the next step
+3 - 4 years,Tumi ki bhat khabey ?,Do you want to eat rice?,Nodding,no meaning,Check for the next step
+3 - 4 years,Tumi ki bhat khabey?,Do you want to eat rice?,Baa,no meaning,Check for the next step
+3 - 4 years,Tumi ki bhat khabey ?,Do you want to eat rice?,Atta,no meaning,Check for the next step
+3 - 4 years,amake Tablet Mobile ti dao,Give me the Tablet Mobile?,Tab,giving the Tablet,Normal
+3 - 4 years,Tumi Ki Ready?,Are you ready?,Ready,positive,Normal
+3 - 4 years,Ghum Peyeche?,Are you sleepy?,Hmm,yes,Normal
+3 - 4 years,Ki chachho?,What do you Want?,Oita,That thing,Normal
+3 - 4 years,Ki chachho?,What do you Want?,Eita,This thing,Normal
+3 - 4 years,Ki chachho?,What do you Want?,Biskit,Biscuit,Normal
+3 - 4 years,Ki chachho?,What do you Want?,No Response,no response,Check for the next step
+3 - 4 years,Ki chachho?,What do you Want?,Nodding,no meaning,Check for the next step
+3 - 4 years,ekhon jeyo na,Don’t go now?,Tumi Daba na,you do not go,Normal
+3 - 4 years,Ki Koro?,What are you doing ?,Ranna Bari,I am playing ranna bati,Normal
+3 - 4 years,Ki Koro?,What are you doing ?,Kituna,nothing,Normal
+3 - 4 years,Ki Koro?,What are you doing ?,No response,no response,Check for the next step
+4- 5 years,Tumi Ki EkhonKhabey?,Do you want to eat now?,No Response,no response,Check for the next step
+4- 5 years,Tumi Ki EkhonKhabey?,Do you want to eat now?,Smile,smile,Check for the next step
+4- 5 years,Tumi EkhonKi Khabey?,What do you want to eat now?,Smile,smile,Check for the next step
+4- 5 years,Tumi EkhonKi Khabey?,What do you want to eat now?,Bhaat,rice,Normal
+4- 5 years,Tumi EkhonKi Khabey?,What do you want to eat now?,Aikrim,Ice  Cream,Normal
+4- 5 years,Tumi EkhonKi Khabey?,What do you want to eat now?,Chokket,Chocolate,Normal
+4- 5 years,Eta ke re?,Who is this baby?,Smile,smile,Check for the next step
+4- 5 years,Eta ke re?,Who is this baby?,No Response,no response,Check for the next step
+4- 5 years,Eta ke re?,Who is this baby?,Ami,I,Normal
+4- 5 years,Eta ke re?,Who is this baby?,Niana,Niana,Normal
+4- 5 years,Eta ke?,Who is this?,babba,father,Normal
+4- 5 years,Eta ke?,Who is this?,Mumma,mother,Normal
+4- 5 years,Eta ke?,Who is this?,Dadu,grandfather,Normal
+4- 5 years,Tumi ki bhat khabey?,Do you want to eat rice?,No Response,no response,Check for the next step
+4- 5 years,Tumi ki bhat khabey?,Do you want to eat rice?,Smile,smile,Check for the next step
+4- 5 years,Tumi ki bhat khabey?,Do you want to eat rice?,Bhat Thabo,I want to eat rice,Normal
+4- 5 years,Tumi ki bhat khabey?,Do you want to eat rice?,Bhat Thabena,I do not eat rice,Normal
+4- 5 years,Tumi ki bhat khabey?,Do you want to eat rice?,Smile,smile,Check for the next step
+4- 5 years,Tumi ki bhat khabey?,Do you want to eat rice?,No Response,no response,Check for the next step
+4- 5 years,Tumi ki bhat khabey?,Do you want to eat rice?,Nodding,no meaning,Check for the next step
+4- 5 years,Tumi ki bhat khabey?,Do you want to eat rice?,Baa,positive,Check for the next step
+4- 5 years,Tumi ki bhat khabey ?,Do you want to eat rice?,Atta,no meaning,Check for the next step
+4- 5 years,amake Tablet Mobile ti dao,Give me the Tablet Mobile,Tab,giving Tablet,Normal
+4- 5 years,Tumi Ki Ready?,Are you Ready?,Ready,positive,Normal
+4- 5 years,Ghum Peyeche?,Are you Sleepy,Hmm,yes,Normal
+4- 5 years,Ki chachho?,What do you Want,Oita,That thing,Normal
+4- 5 years,Ki chachho?,What do you Want,Eita,This thing,Normal
+4- 5 years,Ki chachho?,What do you Want,Biskit,Biscuit,Normal
+4- 5 years,Ki chachho?,What do you Want,No Response,no response,Check for the next step
+4- 5 years,Ki chachho?,What do you Want,Nodding,no meaning,Check for the next step
+4- 5 years,ekhon jeyo na,Don’t go now,ami jabo na?,do not I  go?,Normal
+4- 5 years,Ki Koro?,What are you doing ?,Ranna Bari,I am playing ranna bati,Normal
+4- 5 years,Ki Koro?,What are you doing ?,Kituna,nothing,Normal
+4- 5 years,Ki Koro?,What are you doing ?,No response,no response,Check for the next step
+5 - 6 years,Tumi Ekhon Ki Khabey?,Do you want to eat now,No Response,no response,Check for the next step
+5 - 6 years,Tumi Ekhon Ki Khabey?,Do you want to eat now,Smile,smile,Check for the next step
+5 - 6 years,Tumi Ekhon Ki Khabey?,What do you want to eat now?,Smile,smile,Check for the next step
+5 - 6 years,Tumi Ekhon Ki Khabey?,What do you want to eat now?,Bhat,Rice,Normal
+5 - 6 years,Tumi Ekhon Ki Khabey?,What do you want to eat now?,Aiskrim,Ice  Cream,Normal
+5 - 6 years,Tumi Ekhon Ki Khabey?,What do you want to eat now?,Choklet,Chocolate,Normal
+5 - 6 years,Eta ke re?,Who is this baby?,Smile,smile,Check for the next step
+5 - 6 years,Eta ke re?,Who is this baby?,No Response,no response,Check for the next step
+5 - 6 years,Eta ke re?,Who is this baby?,Ami,me,Normal
+5 - 6 years,Eta ke re?,Who is this baby?,Liana,Liana,Normal
+5 - 6 years,Eta ke?,Who is this?,Baba,father,Normal
+5 - 6 years,Eta ke?,Who is this?,Mumma,mother,Normal
+5 - 6 years,Eta ke?,Who is this?,Dadu,grand father,Normal
+5 - 6 years,Tumi ki bhat khabey?,Do you want to eat rice?,No Response,no response,Check for the next step
+5 - 6 years,Tumi ki bhat khabey?,Do you want to eat rice?,Smile,smile,Check for the next step
+5 - 6 years,Tumi ki bhat khabey,Do you want to eat rice?,Bhat Khabo,I want to eat rice,Normal
+5 - 6 years,Tumi ki bhat khabey,Do you want to eat rice?,Bhat Khabona,I do not eat rice,Normal
+5 - 6 years,Tumi ki bhat khabey,Do you want to eat rice?,Smile,smile,Check for the next step
+5 - 6 years,Tumi ki bhat khabey,Do you want to eat rice?,No Response,no response,Check for the next step
+5 - 6 years,Tumi ki bhat khabey ?,Do you want to eat rice?,Nodding,no meaning,Check for the next step
+5 - 6 years,Tumi ki bhat khabey?,Do you want to eat rice?,Baa,no meaning,Check for the next step
+5 - 6 years,Tumi ki bhat khabey,Do you want to eat rice?,Atta,no meaning,Check for the next step
+5 - 6 years,amake Tablet Mobile ti dao,Give me the Tablet Mobile,Tab,giving Tablet,Normal
+5 - 6 years,Tumi Ki Ready?,Are you Ready?,Ready,positive,Normal
+5 - 6 years,Ghum Peyeche?,Are you Sleepy?,Hmm,yes,Normal
+5 - 6 years,Ki chachho?,What do you Want?,Oita,That thing,Normal
+5 - 6 years,Ki chachho?,What do you Want?,Eita,This thing,Normal
+5 - 6 years,Ki chachho?,What do you Want?,Biskit,Biscuit,Normal
+5 - 6 years,Ki chachho?,What do you Want?,No Response,no response,Check for the next step
+5 - 6 years,Ki chachho?,What do you Want?,Nodding,no meaning,Check for the next step
+5 - 6 years,ekhon jeyo na,Don’t go now?,Tumi jaba na,Would you go?,Normal
+5 - 6 years,Ki Koro?,What are you doing ?,Ranna Bati kheli,I am playing ranna bati,Normal
+5 - 6 years,Ki Koro?,What are you doing ?,Kichuna,Nothing,Normal
+5 - 6 years,Ki Koro?,What are you doing ?,No response,No response,Check for the next step
